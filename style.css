@@ -1,0 +1,68 @@
+button{
+    font-size:1.1em;
+    margin: 20px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+#cart{
+    background-color: #c63928;
+    color: white;
+    padding: 1em 3em;
+    border: none;
+}
+#cart:hover{
+    background-color: #ed4d50;
+}
+#start{
+    background-color: #fdd835;
+    color: #2a61fb;
+    border: 3px solid blue;
+    padding:10px 20px;
+    font-size: 1.5em;
+}
+#start:hover{
+    background-color: #2a61fb;
+    color: #fdd835;
+}
+#login{
+    border-radius: 25px;
+    border: none;
+    background: linear-gradient(180deg, #84fab0 30%, #79CBCA 70%);
+    color: white;
+    padding: 12px 38px;
+}
+#signup{
+    background-color: white;
+    color:#6749ea;
+    border: 2px solid #6749ea;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+#signup:hover{
+    background-color:#6749ea ;
+    color: white;   
+}
+#subscribe{
+    background-image: linear-gradient(to top, #f5a332 , #fac733);
+    color: white;
+    padding: 12px 2em;
+    border: 2px solid #f5a332;
+    border-radius: 5px;
+    
+}
+#subscribe:hover{
+    background-color:#f5a332 ;
+    background-image: none;
+}
+#twitter{
+    background-color: white;
+    color: #38a1f3;
+    border-radius: 50px;
+    border: 2px solid  #38a1f3;
+    font-size: 1.2em;
+    padding: 10px 13px;
+}
+#twitter:hover{
+    background-color: #38a1f3;
+    color: white;
+}
